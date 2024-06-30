@@ -1,8 +1,10 @@
-# React + Vite
+<h1>This is my frontend project of service webpage with responsive.</h1>
+<h3>Main Objective</h3>
+<p>- Modern webpage design</p>
+<p>- Responsive web design</p>
+<p>- learning Tailindcss</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>Tools</h1>
 
-Currently, two official plugins are available:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite)](https://skillicons.dev)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
